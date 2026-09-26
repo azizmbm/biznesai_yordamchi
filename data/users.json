@@ -1,0 +1,454 @@
+{
+  "5000647621": {
+    "name_type": "Safia kafe",
+    "since_and_branches": "2021 yil, 2 ta filial",
+    "advantages": "Sifatli mahsulotlar, qulay lokatsiya",
+    "disadvantages": "Dostavka pullik",
+    "social_profile": "Ha bor, 2300",
+    "onboarded": true,
+    "smm_plan": [
+      {
+        "day": 1,
+        "instagram_idea": "Kafe haqida tanishuv post: 'Biz kim biz?' — 2 filial, 2021 yildan buyon sifat va maza",
+        "telegram_idea": "Kanalga xush kelibsiz! Safia kafe haqida qisqa taqdimot va maxsus taklif e'loni"
+      },
+      {
+        "day": 2,
+        "instagram_idea": "Menyudagi eng mashhur taom yaqin suratda — appetitli foto va tavsif",
+        "telegram_idea": "Bugungi kun taomi: eng ko'p buyurtma qilinadigan dish haqida batafsil ma'lumot"
+      },
+      {
+        "day": 3,
+        "instagram_idea": "Kafe ichki muhiti (interior) fotosi — 'Bizning shinam burchagimiz'",
+        "telegram_idea": "Filiallarimiz manzili va ish vaqti — to'liq ma'lumot pinned post"
+      },
+      {
+        "day": 4,
+        "instagram_idea": "Reels: Oshpaz taom tayyorlash jarayoni (15-30 soniya)",
+        "telegram_idea": "Yangi hafta — yangi maxsus taklif! Chegirma yoki bonus e'lon qilish"
+      },
+      {
+        "day": 5,
+        "instagram_idea": "Mijoz sharhi (review) dizayn shaklida post — real fikr va reyting",
+        "telegram_idea": "Mijozlarimiz nima deydi? — eng yaxshi sharhlarni ulashish"
+      },
+      {
+        "day": 6,
+        "instagram_idea": "Stories: 'Bu haftaning tavsiya etilgan taomi' so'rovnomasi",
+        "telegram_idea": "So'rovnoma: Qaysi filialni ko'proq yoqtirasiz? — interaktiv post"
+      },
+      {
+        "day": 7,
+        "instagram_idea": "Hafta sarhisob: eng ko'p like olgan taom surati repost + stats",
+        "telegram_idea": "Yakshanba maxsusligi: faqat bugun kechki payt chegirmali taklif"
+      },
+      {
+        "day": 8,
+        "instagram_idea": "Ichimliklar menyusi ko'rinishi — chiroyli flat lay fotosi",
+        "telegram_idea": "Eng sevimli ichimliklar top-3: ovozli xabar yoki qisqa tavsif"
+      },
+      {
+        "day": 9,
+        "instagram_idea": "Jamoamiz bilan tanishuv — oshpaz yoki barista haqida mini hikoya",
+        "telegram_idea": "Sahna ortida: kafe ishchilari bir kun qanday o'tkazadi?"
+      },
+      {
+        "day": 10,
+        "instagram_idea": "Carousel: Menyu yangiliklari — 5-7 ta yangi dish namoyishi",
+        "telegram_idea": "Yangi menyu elementlari haqida batafsil — narx va tarkib bilan"
+      },
+      {
+        "day": 11,
+        "instagram_idea": "Reels: Kafe atmosferasi — sabah payt bo'sh, sokin muhit video",
+        "telegram_idea": "Ertalabki maxsus: Breakfast combo narxi va tarkibi e'loni"
+      },
+      {
+        "day": 12,
+        "instagram_idea": "Infografika: 'Nima uchun Safia kafe?' — 5 sabab dizayni",
+        "telegram_idea": "Bizning ustunliklarimiz: sifat nazorati qanday amalga oshiriladi?"
+      },
+      {
+        "day": 13,
+        "instagram_idea": "Mijoz bilan foto (ruxsat bilan) — 'Bizning doimiy mehmonimiz'",
+        "telegram_idea": "Sizni ham sog'indik! — doimiy mijozlarga maxsus chegirma kodi"
+      },
+      {
+        "day": 14,
+        "instagram_idea": "2 haftalik faoliyat natijasi: statistika va minnatdorchilik post",
+        "telegram_idea": "14 kun birga! Obunachilarga sovg'a: keyingi buyurtmada bonus"
+      },
+      {
+        "day": 15,
+        "instagram_idea": "Mahalliy ingredientlar haqida post — 'Biz faqat yangi mahsulot ishlatamiz'",
+        "telegram_idea": "Sifat sirimiz: mahsulotlarimiz qayerdan va qanday tanlanadi?"
+      },
+      {
+        "day": 16,
+        "instagram_idea": "Stories quiz: 'Ushbu taomning nomi nima?' — interaktiv savol",
+        "telegram_idea": "Viktorina! To'g'ri javob bergan 3 kishi — bepul kofe yutib oladi"
+      },
+      {
+        "day": 17,
+        "instagram_idea": "Kafe lokatsiyasi afzalliklari — 'Bizni topish oson' xarita va yo'nalish",
+        "telegram_idea": "Qaysi fililingiz yaqinroq? — Manzillar va transport yo'nalishlari"
+      },
+      {
+        "day": 18,
+        "instagram_idea": "Reels: Eng mashhur desert tayyorlanishi — slow motion video",
+        "telegram_idea": "Desert vaqti! Bugun desert buyurtma qilsangiz — ichimlik sovg'a"
+      },
+      {
+        "day": 19,
+        "instagram_idea": "Before/After: Oddiy mahsulotdan chiroyli taom — transformatsiya post",
+        "telegram_idea": "Oshpazimizning siri: oddiy narsadan ajoyib taom qanday yaratiladi?"
+      },
+      {
+        "day": 20,
+        "instagram_idea": "UGC post: Mijozlar fotolarini repost — 'Sizning Safia lahzalaringiz'",
+        "telegram_idea": "Foto yuklang — biz repost qilamiz va sovrin beramiz! Aktsiya e'loni"
+      },
+      {
+        "day": 21,
+        "instagram_idea": "Carousel: Hafta menyusi jadval ko'rinishida — har kuni nima bor?",
+        "telegram_idea": "Haftalik menyu jadvali — oldindan reja tuzing va buyurtma bering"
+      },
+      {
+        "day": 22,
+        "instagram_idea": "Motivatsion iqtibos + kafe surati — ertalabki kayfiyat post",
+        "telegram_idea": "Chorshanba energiyasi: ertalabki combo buyurtmasiga 10% chegirma"
+      },
+      {
+        "day": 23,
+        "instagram_idea": "Poll stories: 'Yangi taom kiritishimizni xohlaysizmi?' — fikr so'rash",
+        "telegram_idea": "Sizning fikringiz muhim! Menyu rivojlanishi bo'yicha so'rovnoma"
+      },
+      {
+        "day": 24,
+        "instagram_idea": "Kafe tashqi ko'rinishi (fasad) — 'Bizni tanib oling!' geo-tag bilan",
+        "telegram_idea": "Bizni toping! Har ikki filialni Instagram'da tag qiling — sovrin kutadi"
+      },
+      {
+        "day": 25,
+        "instagram_idea": "Reels: Kafe bir kunlik qisqa video montaj — morning to evening",
+        "telegram_idea": "Kafe hayotidan: ertalabdan kechgacha nima bo'ladi — qisqa hikoya"
+      },
+      {
+        "day": 26,
+        "instagram_idea": "Maxsus taklif e'loni: 'Ikki kishi uchun combo' — weekend aksiya",
+        "telegram_idea": "Dam olish kuni aktsiyasi: 2 kishi kelsa — 3-ichimlik bepul!"
+      },
+      {
+        "day": 27,
+        "instagram_idea": "Jamoamiz bayram yoki muhim sana nishonlash — samimiy post",
+        "telegram_idea": "Bizning jamoa sizga minnatdor — 2300 obunachi bilan nishon!"
+      },
+      {
+        "day": 28,
+        "instagram_idea": "Top-3 eng ko'p buyurtma qilingan taomlar countdown formatida",
+        "telegram_idea": "Bu oy hit taomlar: reyting va ularning narxi hamda tavsifi"
+      },
+      {
+        "day": 29,
+        "instagram_idea": "Safia kafe 'challenge': Taomni eng chiroyli uslubda yeng — contest",
+        "telegram_idea": "Tanlov e'loni: eng ijodiy Safia kafe fotosi — sovrin 100,000 so'm"
+      },
+      {
+        "day": 30,
+        "instagram_idea": "30 kunlik sarhisob: o'sish, rahmatlar va keyingi oy va'dalari post",
+        "telegram_idea": "Bir oy birga! Statistika, eng yaxshi lahzalar va kelasi oy rejalari"
+      }
+    ],
+    "smm_plan_day_index": 1,
+    "smm_plan_last_sent_at": 1790405652.4319808
+  },
+  "6543566787": {
+    "name_type": "Artel maishiy texnika do'koni",
+    "since_and_branches": "2021, 2 ta filial",
+    "advantages": "Ulgurchi narxlar, Qulay Lokatsiyalar, Xalq tanlagan brend",
+    "disadvantages": "Dostavka pullik",
+    "social_profile": "ha bor, 2300",
+    "onboarded": true,
+    "smm_plan": [
+      {
+        "day": 1,
+        "instagram_idea": "Artel do'koni bilan tanishing — ishonchli brend",
+        "instagram_script": "🏠 Uyingizni zamonaviy texnika bilan jihozlang!\n\nArtel — 2021-yildan beri xalq ishonchini qozongan maishiy texnika do'koni. 2 ta qulay filialimiz orqali sifatli mahsulotlarni ULGURJI narxlarda taqdim etamiz.\n\n✅ Arzon narx\n✅ Qulay joylashuv\n✅ Xalq tanlagan brend\n\nBiz bilan yuring — sifat va tejamkorlik bir joyda! 👇\n\n#ArtelTexnika #MaishiyTexnika #UzbekistanShopping",
+        "telegram_idea": "Artel do'koni — tanishув va asosiy ustunliklar",
+        "telegram_script": "👋 Artel maishiy texnika do'koniga xush kelibsiz!\n\n2021-yildan buyon faoliyat yuritib kelayotgan do'konimiz bugun 2 ta filial orqali minglab oilalarga xizmat qilmoqda.\n\n💡 Bizni nima ajratib turadi?\n— Ulgurchi narxlar (hamma uchun qulay)\n— Strategik joylashgan 2 ta filial\n— Xalq tomonidan tanlangan ishonchli brend\n\n📲 Kanaliga obuna bo'ling va yangiliklerdan birinchi xabardor bo'ling!\n\n#Artel #MaishiyTexnika"
+      },
+      {
+        "day": 2,
+        "instagram_idea": "Eng ommabop mahsulotimiz bugun spotlightda",
+        "instagram_script": "⚡ Bugungi TOP mahsulot — uyning yulduzi!\n\nHar kuni yuzlab xaridor tanlayotgan mahsulotimiz endi yanada qulay narxda! 🔥\n\nSifat + Dizayn + Arzon narx = faqat Artelda!\n\n📍 Filiallarimizga tashrif buyuring yoki DM orqali buyurtma bering.\n⏳ Miqdor cheklangan — kechiktirmang!\n\n#ArtelTavsiya #MaishiyTexnika #TechSavdo",
+        "telegram_idea": "Haftaning eng ko'p sotilgan mahsuloti taqdimoti",
+        "telegram_script": "🛒 Haftaning HIT mahsuloti!\n\nMijozlarimiz eng ko'p tanlayotgan mahsulotni bugun sizga taqdim etamiz.\n\n✔️ Yuqori sifat standartlari\n✔️ Ulgurchi narx — boshqa joyda topolmaysiz\n✔️ Darhol mavjud — ikkala filialda ham bor\n\n💬 Qiymati va xususiyatlari haqida to'liq ma'lumot olish uchun menga yozing yoki filialga keling!\n\n📍 Manzillar: [filial 1 manzili] | [filial 2 manzili]\n\n#ArtelShop #HitMahsulot"
+      },
+      {
+        "day": 3,
+        "instagram_idea": "Mijozimiz gapiradi — haqiqiy fikr, haqiqiy his",
+        "instagram_script": "❤️ Mijozlarimiz so'zlaydi!\n\n\"Arteldan xolodilnik oldim — narxi boshqa do'konlarga qaraganda ancha arzon, sifati esa a'lo! Ikkala filial ham juda qulay joylashgan. Tavsiya qilaman!\" — Nilufar, Toshkent\n\n🙏 Har bir xaridorimiz — bizning g'ururimiz!\n\nSiz ham tajribangizni comments'da ulashing 👇\n\n#MijozFikri #ArtelTavsiya #HaqiqiyHis",
+        "telegram_idea": "Xaridor sharhi — ishonch eng yaxshi reklama",
+        "telegram_script": "⭐ Mijozimizning so'zlari:\n\n\"Artelga birinchi marta do'stim tavsiyasi bilan keldim. Narxlarni ko'rib hayron qoldim — ulgurji narxda chakana savdo! Xizmat ham zo'r, maslahat berishdi, kerakli narsani topdim.\"\n— Jahongir, doimiy mijoz\n\n💬 Bunday ijobiy fikrlar bizni har kuni ilhomlantirib turadi.\n\nSizda ham tajriba bor? Yozing — boshqalarga yordam bo'ladi! 👇\n\n#ArtelMijoz #IshonchliDokon #Sharh"
+      },
+      {
+        "day": 4,
+        "instagram_idea": "Maxsus chegirma — faqat bugun va ertaga",
+        "instagram_script": "🎉 CHEGIRMA AKSIYASI — vaqt cheklangan!\n\nFaqat 2 kun davomida tanlangan mahsulotlarga\n💥 20% gacha CHEGIRMA!\n\nBu imkoniyatni qo'ldan boy bermang:\n✅ Sovutgich\n✅ Kir yuvish mashinasi\n✅ Televizor va boshqalar\n\nDM yozing yoki filialga keling — siz uchun eng yaxshi narxni topamiz! ⏳\n\n#Chegirma #Aksiya #ArtelSale #MaishiyTexnika",
+        "telegram_idea": "2 kunlik flash-aksiya — chegirmalar endi boshlanadi",
+        "telegram_script": "🔔 DIQQAT! 2 KUNLIK AKSIYA!\n\nArtel do'konida maxsus narxlar boshlandi:\n\n🏷 Sovutgich — chegirma bilan\n🏷 Kir yuvish mashinasi — chegirma bilan\n🏷 Televizor — chegirma bilan\n🏷 Va boshqa 10+ mahsulot!\n\n⏰ Aksiya muddati: faqat bugun va ertaga\n📍 Ikkala filialda ham amal qiladi\n📲 Buyurtma uchun: [telefon raqam]\n\nDo'stlaringizga ulashing — ular ham tejab qolsin! 🙌\n\n#ArtelAksiya #Chegirma #Flash"
+      },
+      {
+        "day": 5,
+        "instagram_idea": "Foydali maslahat — texnikani uzoq saqlash sirlari",
+        "instagram_script": "💡 Maishiy texnikangiz uzoq xizmat qilsin!\n\nTop 3 ta oddiy maslahat:\n\n1️⃣ Kir mashinani to'liq yoki juda bo'sh yuklashdan saqlaning\n2️⃣ Sovutgich orqa devorini devordan 5-10 sm uzoqroq qo'ying\n3️⃣ Televizorni to'g'ridan-to'g'ri quyosh nuridan himoya qiling\n\nTexnika to'g'ri ishlatilsa — yillar davomida xizmat qiladi! 🙌\n\nBoshqa savollar? Comments'da yozing! 👇\n\n#FoydaliMaslahat #TechTips #ArtelExpert",
+        "telegram_idea": "Ekspert maslahat — texnikadan to'g'ri foydalanish",
+        "telegram_script": "🛠 Texnikangiz uzoq yashashi uchun 5 ta maslahat:\n\n1. Kir mashinasini har 3 oyda tozalab turing\n2. Sovutgich haroratini 3-5°C da saqlang — optimal rejim\n3. Konditsionerni yil oxirida servis ko'rigidan o'tkazing\n4. Televizor ekranini maxsus surtki bilan tozalang\n5. Barcha texnikalarni stabilizator orqali ulang\n\n💬 Artelda xarid qilgandan so'ng biz sizga bepul maslahat beramiz!\n\nSavollaringiz bormi? Yozing — javob beramiz! 📲\n\n#ArtelMaslahat #TechLifeHack #MaishiyTexnika"
+      },
+      {
+        "day": 6,
+        "instagram_idea": "Ulgurji narxlar bilan tejamkorlik sirri",
+        "instagram_script": "💰 Do'konga kirgan har bir kishi bir savol beradi: \"Narx negа bu qadar qulay?\"\n\nJavob oddiy — biz ulgurchi narxlarda ishlaymiz! Artel maishiy texnikani bevosita ishlab chiqaruvchidan olib, sizga eng qulay narxda taqdim etamiz.\n\n🛒 Sifat va tejamkorlik bir joyda — bu bizning tamoyilimiz!\n\n📍 2 ta qulay filialimizdan birini tanlang va bugun tashrif buyuring!\n\n#ArtelTexnika #UlgurjiNarx #MaishiyTexnika",
+        "telegram_idea": "Ulgurji narx — mijoz uchun katta foyda",
+        "telegram_script": "💡 Narx muhim, lekin sifat undan ham muhim!\n\nArtel do'konida ikkalasini bir vaqtda topasiz. Biz ulgurchi narxlarda ishlаb, tejamkorlikni to'g'ridan-to'g'ri sizga yetkazamiz.\n\n✅ Ishlab chiqaruvchidan — sizga\n✅ Ortiqcha to'lovsiz\n✅ Sifat kafolati bilan\n\n📲 Narxlarni bilish uchun yozing yoki do'konimizga tashrif buyuring!\n\n#ArtelTexnika #UlgurjiNarx #Tejamkorlik"
+      },
+      {
+        "day": 7,
+        "instagram_idea": "Mahsulot namoyishi: eng ko'p sotilgan texnika",
+        "instagram_script": "🔥 Bu hafta eng ko'p sotib olingan mahsulotni bilasizmi?\n\nMijozlarimiz uni bir ko'rishda tanlayapti — chunki u uy hayotini chinakam osonlashtiradi! Artel assortimentidagi bu mashhur texnikani do'konimizda jonli ko'rishingiz mumkin.\n\n👀 Reelni oxirigacha ko'ring va o'zingiz baho bering!\n💬 Siz qaysi texnikani ko'proq ishlatасiz? Fikringizni yozing!\n\n#ArtelTexnika #BestSeller #MaishiyTexnika",
+        "telegram_idea": "Haftaning ommabop mahsuloti — batafsil sharh",
+        "telegram_script": "📦 HAFTANING MAHSULOTI\n\nHar hafta mijozlarimiz orasida eng ko'p talab topgan texnikani sizga tanitib boramiz!\n\nBu hafta: [Mahsulot nomi]\n⚡ Texnik xususiyatlari:\n• Kam elektr sarflaydi\n• Uzoq xizmat muddati\n• Qulay boshqaruv\n\n💰 Narxi: Do'konimizda eng qulay!\n\n📍 2 ta filialimizdan birida mavjud. Buyurtma uchun yozing! 👇\n\n#ArtelTexnika #HaftaningMahsuloti"
+      },
+      {
+        "day": 8,
+        "instagram_idea": "Mijoz mamnuniyati — haqiqiy fikr va taassurot",
+        "instagram_script": "❤️ \"Artelga bir marta keldim — endi doimiy mijozman!\"\n\nBu — bizning eng qimmatli yutuqlarimizdan biri. Mijozlarimiz nafaqat mahsulot, balki xizmat sifatidan ham mamnun!\n\n🌟 Siz ham do'konimizga tashrif buyurganmisiz? Tajribangizni kommentda ulashing — eng yaxshi fikrni sovg'a bilan taqdirlaymiz! 🎁\n\n📍 Qulay lokatsiyalarimiz sizni kutmoqda!\n\n#ArtelTexnika #MijozFikri #XizmatsifatiYuqori",
+        "telegram_idea": "Mijoz sharhi — ishonch va sifat dalili",
+        "telegram_script": "🗣️ MIJOZ GAPIRADI:\n\n\"Artelga do'st maslahat berdi, borib ko'rdim — narxlari boshqa do'konlardan ancha qulay ekan. Xodimlar ham juda yordamchi. Albatta yana kelaman!\"\n— Sardor, Toshkent\n\nBu kabi ishonchli fikrlar bizni har kuni ilhomlantiradi va yanada yaxshiroq xizmat ko'rsatishga undaydi!\n\n💬 Siz ham tajribangizni ulashing — biz eshitamiz!\n\n#ArtelTexnika #MijozFikri #Ishonch"
+      },
+      {
+        "day": 9,
+        "instagram_idea": "Maxsus aksiya — faqat bugun chegirma bor",
+        "instagram_script": "🚨 DIQQAT! Bugungi maxsus taklif!\n\nFaqat bugun — tanlangan mahsulotlarga alohida chegirma! ⏰ Vaqt cheklangan, imkoniyatni qo'ldan boy bermang!\n\n🎯 Nima olasiz:\n✔️ Sifatli maishiy texnika\n✔️ Ulgurchi narxdan ham arzonroq\n✔️ Kafolat bilan\n\n👇 Do'stingizni tag qiling — birgalikda tejang!\n📍 2 ta filialimiz ochiq, sizi kutamiz!\n\n#ArtelTexnika #Aksiya #BugungiTaklif",
+        "telegram_idea": "Maxsus chegirma aksiyasi — bugun tugaydi",
+        "telegram_script": "🔴 BUGUNGI MAXSUS AKSIYA!\n\n⏳ Faqat bugun kuni davomida:\n➡️ Tanlangan mahsulotlarga chegirma\n➡️ Bepul yetkazib berish imkoniyati\n➡️ Qulay to'lov muddati\n\n📌 Eslatma: Aksiya faqat bugun kuni davomida amal qiladi!\n\n📞 Buyurtma yoki ma'lumot uchun:\n👉 Do'konimizga tashrif buyuring yoki quyidagi raqamga yozing!\n\n💬 Do'stlaringizga yuboring — ular ham tejashsin!\n\n#ArtelTexnika #Chegirma #Aksiya"
+      },
+      {
+        "day": 10,
+        "instagram_idea": "Foydali maslahat — texnikani to'g'ri tanlash usullari",
+        "instagram_script": "💡 Maishiy texnika sotib olishdan oldin BUNI biling!\n\nKo'pchilik xato qiladigan 3 ta jihat:\n❌ Faqat narxga qarab tanlash\n❌ Energiya sarfiga e'tibor bermaslik\n❌ Kafolatni tekshirmaslik\n\n✅ Artelda mutaxassislarimiz sizga to'g'ri tanlovda yordam beradi — bepul maslahat bilan!\n\n📩 Savol bormi? Kommentda yozing, javob beramiz!\n\n#ArtelTexnika #FoydaliMaslahat #ToğriTanlash",
+        "telegram_idea": "Mutaxassis maslahat — texnika tanlashda 5 qoida",
+        "telegram_script": "📋 TEXNIKA TANLASHDA 5 TA ASOSIY QOIDA:\n\n1️⃣ Energiya tejamkorligiga e'tibor bering (A+ sinf)\n2️⃣ Xona o'lchamiga mos quvvat tanlang\n3️⃣ Kafolat muddatini so'rang\n4️⃣ Ehtiyot qismlari mavjudligini tekshiring\n5️⃣ Ishonchli do'kondan xarid qiling ✅\n\nArtel — 2021 yildan beri xalq tanlagan brend! Bizda barcha savollarga tayyor javob bor.\n\n📍 2 ta filialimizda mutaxassislarimiz sizni kutmoqda!\n\n#ArtelTexnika #Maslahat #ToğriXarid"
+      },
+      {
+        "day": 11,
+        "instagram_idea": "Artel — xalq tanlagan brend, biz sizni tanlaymiz",
+        "instagram_script": "🏆 2021-yildan buyon minglab oilalar Artelga ishonadi!\n\nNega? Chunki biz faqat sifatli maishiy texnikani — ulgurji narxlarda taqdim etamiz. 2 ta qulay filialimiz orqali siz har doim yaqindasiz.\n\nBuguna keling, farqni o'zingiz his qiling! 👇\n\n#Artel #MaishiyTexnika #XalqTanlagan",
+        "telegram_idea": "Artel do'koni haqida qisqacha tanishuv",
+        "telegram_script": "👋 Salom, aziz do'stlar!\n\nBiz — Artel maishiy texnika do'koni. 2021-yildan beri xizmatdamiz va bugun 2 ta filialimiz orqali minglab mijozlarga xizmat ko'rsatamiz.\n\n✅ Ulgurchi narxlar\n✅ Qulay joylashuv\n✅ Xalq tanlagan brend\n\nBizni kuzatib boring — har kuni foydali ma'lumot va maxsus takliflar! 🔔\n\n#Artel #MaishiyTexnika"
+      },
+      {
+        "day": 12,
+        "instagram_idea": "Eng ko'p sotilgan mahsulot — bugun siz uchun",
+        "instagram_script": "🔥 Bu hafta rekordsmon!\n\nMijozlarimiz eng ko'p xarid qilgan mahsulot — [mahsulot nomi] bugun sizga maxsus narxda! Ulgurchi narxlarimiz bozordagi eng qulaylaridan biri.\n\nStok cheklangan — kechikib qolmang! DM yoki filialga tashrif buyuring 🏃‍♂️\n\n#ArtelSavdo #MahsulotKuni #UlgurjiNarx",
+        "telegram_idea": "Haftaning eng ommabop mahsuloti e'loni",
+        "telegram_script": "📦 HAFTANING HIT MAHSULOTI!\n\n[Mahsulot nomi] — bu hafta eng ko'p sotilgan texnikamiz!\n\n💰 Narxi: [narx]\n🏷 Ulgurchi narxda siz tejaysiz: [tejash miqdori]\n📍 Ikki filialimizda mavjud\n\nBuyurtma berish uchun: [telefon raqam]\n\nMiqdor cheklangan, tezroq murojaat qiling! ⚡\n\n#Artel #HitMahsulot #MaishiyTexnika"
+      },
+      {
+        "day": 13,
+        "instagram_idea": "Mijozimiz so'zlaydi — haqiqiy fikrlar",
+        "instagram_script": "💬 \"Narxlari bozordagi eng qulay, xodimlar juda yordamchi!\" — Nodira xonim, doimiy mijozimiz.\n\nBiz har bir xaridorni oilamiz deb bilamiz 🤝 Minglab mamnun mijoz — bizning eng katta yutuqimiz!\n\nSiz ham tajribangizni ulashing 👇 Sharhlar sizga ham, bizga ham yordam beradi!\n\n#MijozFikri #ArtelTajriba #IshonchliDokon",
+        "telegram_idea": "Mijoz sharhi va mamnuniyat hikoyasi",
+        "telegram_script": "⭐️ MIJOZIMIZ SO'ZLAYDI:\n\n\"Arteldan sovutgich oldim — narxi juda qulay, yetkazib berish tez bo'ldi. Albatta do'stlarimga ham tavsiya qilaman!\" \n— Jasur, Toshkent\n\n🙏 Bunday fikrlar bizni ilhomlantiradi!\n\nSiz ham Arteldan xarid qilganmisiz? Fikringizni qoldiring 👇 Eng yaxshi sharh uchun sovg'a tayyorlaymiz 🎁\n\n#ArtelMijoz #Sharh #MaishiyTexnika"
+      },
+      {
+        "day": 14,
+        "instagram_idea": "Foydali maslahat: texnikani uzoq saqlash sirlari",
+        "instagram_script": "💡 Maishiy texnika uzoq ishlashi uchun 3 ta oddiy qoida:\n\n1️⃣ Kir yuvish mashinasini haddan ziyod to'ldirmang\n2️⃣ Sovutgich orqa tomonini toza tuting\n3️⃣ Har 6 oyda filtrlarni tozalang\n\nSifatli texnika + to'g'ri parvarish = uzoq xizmat! Artelda sifatni biz kafolatlaymiz ✅\n\n#FoydaliMaslahat #TechnikaParvarish #ArtelTips",
+        "telegram_idea": "Maishiy texnikani to'g'ri ishlatish bo'yicha maslahat",
+        "telegram_script": "🔧 FOYDALI MASLAHAT — TEXNIKANGIZ UZOQ XIZMAT QILSIN!\n\nKo'pchilik bilmagan oddiy sirlar:\n\n✅ Kir mashinasi: to'ldirish hajmining 80% dan oshirmang\n✅ Sovutgich: devordan 5 sm uzoqda turing\n✅ Konditsioner: filtrni har oyda tozalang\n✅ Elektroplita: tugmalarni kislota yukmang\n\n📌 To'g'ri parvarish texnikangiz umrini 2 barobarga uzaytiradi!\n\nArteldan sifatli texnika oling — biz o'rnatish va maslahatni ham beramiz 😊\n\n#ArtelMaslahat #TechnikaParvarish #UzoqXizmat"
+      },
+      {
+        "day": 15,
+        "instagram_idea": "Maxsus aksiya — bugun faqat bizda chegirma",
+        "instagram_script": "🎉 HAFTA SONI AKSIYASI!\n\nBugun [mahsulot] ga — [X]% chegirma! Faqat bugun, faqat filiallarimizda.\n\n📍 Bizning 2 ta qulay filialimizga keling\n⏰ Aksiya tugashiga: 24 soat\n\nDo'stlaringizni tag qiling — birga keling, birga tejang! 👇\n\n#ArtelAksiya #Chegirma #BugunFaqat",
+        "telegram_idea": "Hafta yakuni maxsus chegirma e'loni",
+        "telegram_script": "🔴 HAFTA YAKUNI AKSIYASI — BUGUN OXIRGI KUN!\n\n🛍 [Mahsulot nomi] — [asl narx] o'rniga [chegirmali narx]!\n💥 Tejash: [miqdor] so'm\n\n📍 Filial 1: [manzil]\n📍 Filial 2: [manzil]\n📞 Buyurtma: [telefon]\n🕐 Ishlash vaqti: 09:00 — 20:00\n\n⚠️ Aksiya bugun yakunlanadi! Do'stlaringizga ham yuboring 👇\n\n#Artel #Aksiya #MaishiyTexnika #Chegirma"
+      },
+      {
+        "day": 16,
+        "instagram_idea": "Artel — xalq tanlagan ishonchli brend tanishuvi",
+        "instagram_script": "🏠 Uyingizni yangilash vaqti keldi!\n\nArtel do'koni — 2021-yildan beri minglab oilalarga sifatli maishiy texnika yetkazib kelmoqda. 2 ta qulay filialimiz, ulgurji narxlar va xalq sevgan mahsulotlar — barchasi bir joyda!\n\nBiz bilan tanishing, siz ham to'g'ri tanlov qilasiz 💪\n\n#Artel #MaishiyTexnika #SifatliXizmat",
+        "telegram_idea": "Do'konimiz haqida qisqacha tanishuv va afzalliklar",
+        "telegram_script": "👋 Artel maishiy texnika do'koniga xush kelibsiz!\n\n2021-yildan faoliyat yuritib kelayotgan do'konimiz bugun 2 ta filial orqali xizmat ko'rsatmoqda. Bizning asosiy ustunliklarimiz:\n\n✅ Ulgurchi narxlar\n✅ Qulay joylashuvlar\n✅ Xalq tanlagan sifatli brendlar\n\nBiz sizning ishonchli maishiy texnika hamkoringizmiz! Savollar bo'lsa — yozing, javob beramiz 🙂\n\n#Artel #MaishiyTexnika"
+      },
+      {
+        "day": 17,
+        "instagram_idea": "Eng ko'p sotilayotgan mahsulot namoyishi bugun",
+        "instagram_script": "🔥 Bugungi TOP mahsulot — keling ko'ring!\n\nBu hafta eng ko'p sotilayotgan maishiy texnikamiz sizni ham hayron qoldiradi. Sifat yuqori, narx — ulgurji! Omborda soni cheklangan, shoshiling 🏃‍♂️\n\nDM orqali narx va ma'lumot oling 👇\n\n#ArtelDokon #TopMahsulot #UlgurijiNarx",
+        "telegram_idea": "Haftaning eng ommabop mahsuloti narx va tavsifi",
+        "telegram_script": "🛒 Haftaning eng ko'p sotilgan mahsuloti!\n\nArtel do'konida bu hafta rekord sotuvga chiqdi — sifatli, ishonchli va eng muhimi ulgurchi narxda mavjud!\n\n📦 Omborda bor\n💰 Narx: DM yoki qo'ng'iroq orqali bilib oling\n📍 Ikki filialdagi manzillarimizga tashrif buyuring\n\nBugun buyurtma bering, kechiktirmang! ☎️ [raqam]\n\n#Artel #MaishiyTexnika #ArzonNarx"
+      },
+      {
+        "day": 18,
+        "instagram_idea": "Mijoz sharhi — haqiqiy fikr haqiqiy taassurot",
+        "instagram_script": "⭐️⭐️⭐️⭐️⭐️ Mijozimiz nima deydi?\n\n\"Arteldan xarid qildim — narxi ham qulay, xizmati ham a'lo! Ikkinchi marta ham albatta kelaman\" 😊\n\nSiz ham xarid qiling va o'zingiz his qiling! Bizning manzilga tashrif buyuring yoki DM yuboring 📩\n\n#MijozFikri #ArtelTajriba #IshonchliDokon",
+        "telegram_idea": "Mijoz sharhi va ijobiy tajriba namunasi",
+        "telegram_script": "💬 Mijozlarimiz so'zlaydi!\n\n⭐️ \"Artel do'koniga tasodifan kirdim, lekin narxlarni ko'rib hayron qoldim. Ulgurchi narxda sifatli texnika — bu kamdan-kam uchraydi. Rahmat Artel jamoasiga!\"\n— Dono xonim, doimiy mijoz\n\nBiz har bir mijozning mamnuniyati uchun ishlayamiz 💪\n\nSiz ham tajribangizni ulashing yoki xarid qilish uchun bog'laning!\n📞 [raqam] | 📍 2 ta qulay filial\n\n#ArtelMijozlari #IshonchliXizmat"
+      },
+      {
+        "day": 19,
+        "instagram_idea": "Maxsus aksiya chegirma fursatini qo'ldan bermang",
+        "instagram_script": "🎉 DIQQAT! Maxsus aksiya boshlandi!\n\nFaqat bugun va ertaga — tanlangan mahsulotlarga chegirma! Ulgurchi narxlarga qo'shimcha bonus — bu haqiqiy foyda 💥\n\nFursatni qo'ldan bermang, filialga keling yoki DM yuboring 📲\n\n⏳ Taklif cheklangan muddatli!\n\n#ArtelAksiya #Chegirma #MaishiyTexnika",
+        "telegram_idea": "Cheklangan muddatli aksiya va maxsus takliflar e'loni",
+        "telegram_script": "🔔 CHEGIRMA E'LONI!\n\nArtel do'konida 2 kunlik maxsus aksiya!\n\n🎯 Tanlangan mahsulotlarda qo'shimcha chegirma\n⏳ Muddat: faqat 2 kun\n📍 Ikkala filialdagi narxlar bir xil\n\nNarxlar allaqachon ulgurchi — aksiya esa bu imkoniyatni yanada foydali qiladi!\n\nZudlik bilan bog'laning:\n📞 [raqam]\n📍 [manzil]\n\nDo'stlaringizga ham yuboring, foydali bo'lsin! 🔁\n\n#ArtelAksiya #Chegirma #UlgurijiNarx"
+      },
+      {
+        "day": 20,
+        "instagram_idea": "Foydali maslahat maishiy texnikani to'g'ri tanlash",
+        "instagram_script": "💡 Maishiy texnika xarid qilishdan oldin bilishingiz kerak!\n\n1️⃣ Energiya sarfiga e'tibor bering\n2️⃣ Kafolat muddatini so'rang\n3️⃣ Brend ishonchliligini tekshiring\n\nArtelda bu 3 mezon to'liq ta'minlangan ✅ Savollaringiz bo'lsa, DM yuboring, maslahat bepul!\n\n#FoydaliMaslahat #ArtelMaslahat #TavsiyaEtamiz",
+        "telegram_idea": "Maishiy texnika to'g'ri tanlash bo'yicha amaliy maslahatlar",
+        "telegram_script": "📌 Maishiy texnika xarid qilayotganda nimalarga e'tibor berish kerak?\n\n✅ 1. Energiya tejamkorligi — A++ belgisini qidiring\n✅ 2. Brend ishonchliligi — xalq tanlagan brendlar yaxshiroq\n✅ 3. Kafolat muddati — kamida 1-2 yil bo'lishi shart\n✅ 4. Narx-sifat nisbati — ulgurji do'konlardan arzonroq topiladi\n✅ 5. Xizmat ko'rsatish — sotuvdan keyingi support muhim\n\n💡 Artel do'konida bularning barchasi bor! Maslahat uchun bepul murojaat qiling.\n\n📞 [raqam]\n📍 2 ta qulay filialimiz sizni kutmoqda!\n\n#ArtelMaslahat #MaishiyTexnikaXarid #FoydaliMaslaxat"
+      },
+      {
+        "day": 21,
+        "instagram_idea": "Artel — xalq tanlagan brend, bizni tanlang",
+        "instagram_script": "🏆 Minglab oilalar Artelni tanladi — siz-chi?\n\nBiz 2021-yildan beri sifatli maishiy texnikani ulgurji narxlarda taqdim etib kelamiz. 2 ta qulay filialimiz orqali siz ham eng yaxshi texnikani arzon narxda olishingiz mumkin!\n\n👉 Hoziroq bizga tashrif buyuring va farqni his qiling!\n\n#ArtelTexnika #MaishiyTexnika #UlgurjiNarx",
+        "telegram_idea": "Artel do'koniga rasmiy tanishuv va taklif",
+        "telegram_script": "👋 Artel maishiy texnika do'koniga xush kelibsiz!\n\nBiz 2021-yildan buyon faoliyat yuritib, minglab mijozlarimizga sifatli texnikani qulay narxlarda yetkazib berib kelmoqdamiz.\n\n✅ Ulgurchi narxlar\n✅ 2 ta qulay joylashuv\n✅ Xalq tanlagan brend\n\nBizni kuzatib boring — har kuni foydali ma'lumotlar, aksiyalar va yangiliklar! 🔔\n\n#Artel #MaishiyTexnika #UlgurjiNarx"
+      },
+      {
+        "day": 22,
+        "instagram_idea": "Bugungi maxsus mahsulot namoyishi va tavsifi",
+        "instagram_script": "❄️ Yoz issig'ida sovutgich zarur — lekin narx qo'rqitadimi?\n\nArtelda eng sifatli sovutgichlar ULGURJI narxlarda! Bir marta to'lab, yillab xizmat qiladigan texnikani aynan bizdan oling.\n\n📍 2 ta filialimizdan biriga keling yoki DM yozing!\n💬 Narxni bilish uchun: \"sovutgich\" so'zini yuboring!\n\n#Sovutgich #ArtelTexnika #QulayNarx",
+        "telegram_idea": "Mahsulot tavsifi: sovutgichlar ulgurji narxda",
+        "telegram_script": "🛒 MAHSULOT TAVSIFI\n\n❄️ Sifatli sovutgichlar — endi ulgurji narxda!\n\nArtel do'konida keng assortimentdagi sovutgichlarni topasiz:\n• Turli hajmlar — kichik oiladan katta oilaga\n• Energiya tejovchi modellar\n• Rasmiy kafolat bilan\n\n💰 Narxlar raqobatchilardan PAST — chunki biz ulgurchi!\n\n📞 Batafsil ma'lumot va buyurtma uchun: [raqam]\n📍 Filiallar manzili: [manzil]\n\n#Artel #Sovutgich #UlgurjiNarx"
+      },
+      {
+        "day": 23,
+        "instagram_idea": "Mijoz fikri — real xaridor tajribasi haqida",
+        "instagram_script": "⭐⭐⭐⭐⭐ Mijozimiz Malika opa shunday dedi:\n\n\"Arteldan kir yuvish mashinasi oldim — narxi boshqa do'konlarga qaraganda ancha arzon, sifati esa a'lo! Ikki filiali ham qulay joyda. Albatta tavsiya qilaman!\"\n\n💬 Siz ham tajribangizni ulashing — kommentda yozing!\n👇 Do'stingizni tag qiling!\n\n#MijozFikri #ArtelTexnika #HaqiqiyTajriba",
+        "telegram_idea": "Mijoz sharhi va minnatdorchilik xabari",
+        "telegram_script": "🗣 MIJOZIMIZ GAPIRADI\n\n\"Artel do'konidan kir yuvish mashinasi xarid qildim. Narxi juda qulay, xodimlar samimiy va yordam berdi. Endi do'stlarimga ham tavsiya qilaman!\"\n— Malika opa, doimiy mijozimiz\n\n💛 Har bir mijozimizning ishonchi bizning kuchimiz!\n\nSiz ham Arteldan xarid qilganmisiz? Fikringizni qoldiring 👇\n\n#MijozFikri #Artel #IshonchliDokon"
+      },
+      {
+        "day": 24,
+        "instagram_idea": "Maxsus aksiya — bugungi chegirma e'loni",
+        "instagram_script": "🔥 DIQQAT! Faqat 48 soat davom etadigan aksiya!\n\n🎁 Artelda kir yuvish mashinalariga — 15% chegirma!\n\nFaqat [sana]gacha. Miqdor cheklangan!\n\n✅ Ulgurchi narx + chegirma = ikki barobar tejash\n\n📩 Buyurtma uchun DM yozing yoki qo'ng'iroq qiling!\n📍 Filiallarimizga tashrif buyuring!\n\n#Aksiya #Chegirma #ArtelTexnika",
+        "telegram_idea": "48 soatlik maxsus chegirma aksiyasi e'loni",
+        "telegram_script": "⚡️ FLASH AKSIYA — 48 SOAT!\n\n🎉 Artel maishiy texnika do'konidan xabar:\n\nKir yuvish mashinalariga 15% CHEGIRMA!\n⏰ Muddati: faqat [sana]gacha\n📦 Miqdor cheklangan — tezroq murojaat qiling!\n\nNega aynan Arteldan?\n• Ulgurchi narxlar\n• Rasmiy kafolat\n• Qulay 2 ta filial\n\n📞 Buyurtma: [raqam]\n📍 Manzil: [manzil]\n\n#Aksiya #ArtelChegirma #MaishiyTexnika"
+      },
+      {
+        "day": 25,
+        "instagram_idea": "Foydali maslahat — texnikani to'g'ri tanlash sirlari",
+        "instagram_script": "💡 Kir yuvish mashinasi tanlayotganingizda bu 3 narsaga e'tibor bering:\n\n1️⃣ Hajmi — oila a'zolari soniga qarab\n2️⃣ Energiya sinfi — A+++ tejamkor\n3️⃣ Kafolat muddati — 2 yildan kam bo'lmasin!\n\nArtelda bularning barchasiga ega modellar bor — ulgurji narxda! 😊\n\n💬 Savolingiz bormi? Kommentda yozing!\n\n#FoydaliMaslahat #ArtelTexnika #TanlovSirlari",
+        "telegram_idea": "Foydali maslahat: maishiy texnikani qanday tanlash kerak",
+        "telegram_script": "📚 FOYDALI MASLAHAT\n\n🤔 Maishiy texnika tanlashda ko'pchilik xato qiladi. Mana asosiy qoidalar:\n\n✅ Kir yuvish mashinasi uchun:\n• Oilangiz a'zolari soniga qarab hajm tanlang (1 kishi = 1 kg)\n• Energiya sinfi A+ va undan yuqori bo'lsin\n• Kafolat muddati 2 yildan kam bo'lmasin\n\n✅ Sovutgich uchun:\n• Hajmi oshxonangiz o'lchamiga mos bo'lsin\n• No Frost tizimi — muzlamaydi, qulay\n\n💡 Artelda malakali maslahatchilar bepul yordam beradi!\n\n📞 Murojaat: [raqam]\n\n#FoydaliMaslahat #Artel #MaishiyTexnika"
+      },
+      {
+        "day": 26,
+        "instagram_idea": "Artel do'koni bilan tanishish — xalq tanlagan brend",
+        "instagram_script": "🏠 Uyingizga sifat kerakmi? Artel maishiy texnika do'koniga xush kelibsiz! 2021-yildan buyon 2 ta filialda minglab oilalarga xizmat qilyapmiz. Ulgurji narxlar, qulay joylashuv — hammasi siz uchun! Bizni tanlagan 2300+ mijoz yanglishmagan. Siz ham oilangizga eng yaxshisini tanlang! 👇 Manzilimiz bio'da. #Artel #MaishiyTexnika #SifatliTexnika",
+        "telegram_idea": "Artel do'koni bilan rasmiy tanishuv va afzalliklari",
+        "telegram_script": "👋 Assalomu alaykum, aziz do'stlar!\n\nBiz — Artel maishiy texnika do'koni. 2021-yildan beri faoliyat yuritib, bugun 2 ta qulay filialdamiz.\n\n✅ Ulgurchi narxlar\n✅ Qulay lokatsiyalar\n✅ Xalq tanlagan ishonchli brend\n\nHar kuni yangi aksiyalar, foydali maslahatlar va maxsus takliflar shu kanalda! Kanalga obuna bo'ling va birinchilar qatorida xabardor bo'ling 🔔\n\n#Artel #MaishiyTexnika"
+      },
+      {
+        "day": 27,
+        "instagram_idea": "Mahsulot namoyishi — eng ko'p sotilgan texnika",
+        "instagram_script": "🔥 Bu hafta eng ko'p sotilgan mahsulotimiz bilan tanishing! Artel do'konida siz izlagan texnika — past narxda, yuqori sifatda. Ulgurchi narxlarimiz bozordan ANCHA arzon! Hoziroq do'konimizga keling yoki DM orqali so'rang. Chegirma faqat ushbu hafta! ⏰ #ArtelTexnika #EngiArzon #MaishiyTexnika",
+        "telegram_idea": "Haftaning hit mahsuloti — narx va texnik tavsif",
+        "telegram_script": "📦 HAFTANING HIT MAHSULOTI!\n\nArtel do'konida bu hafta eng ko'p sotilayotgan texnikamiz sizga maxsus narxda taqdim etilmoqda!\n\n🏷 Narx: bozordan 15-20% arzon\n⚡ Sifat: kafolatlangan\n🚚 Yetkazib berish: mavjud\n\n👉 Batafsil ma'lumot va buyurtma uchun:\n📞 [telefon raqam]\n📍 2 ta filialimizdan biriga tashrif buyuring\n\nSavol bormi? Kommentda yozing! #ArtelTexnika #HitMahsulot"
+      },
+      {
+        "day": 28,
+        "instagram_idea": "Mijoz fikri — haqiqiy xaridor tajribasi",
+        "instagram_script": "⭐⭐⭐⭐⭐ Mijozlarimiz so'zlaydi! \"Arteldan texnika oldim — narxi ham, sifati ham zo'r! Sotuvchilar juda muloyim, hamma narsani tushuntirdi.\" — Nilufar xonim, doimiy mijozimiz. Siz ham oilangizga eng yaxshisini tanlang! DM yozing yoki do'konimizga keling 🏪 #MijozFikri #ArtelTavsiya #IshonchliDo'kon",
+        "telegram_idea": "Mijozlar sharhi — haqiqiy tajriba va minnatdorchilik",
+        "telegram_script": "💬 MIJOZLARIMIZ SO'ZLAYDI\n\n\"Artel do'konidan muzlatgich oldim. Narxi boshqa do'konlarga qaraganda ancha qulay, kafolat ham berishdi. Ikki hafta o'tdi — hamma narsa zo'r ishlamoqda!\"\n— Sardor aka, Toshkent\n\nBiz har bir mijozimizning ishonchini qadrlaymiz 🙏\n\n📍 Sizning fikringiz ham muhim! Arteldan xarid qilgansiz? Tajribangizni kommentda ulashing — eng yaxshi sharh egasiga SOVG'A! 🎁\n\n#MijozFikri #Artel #IshonchliXizmat"
+      },
+      {
+        "day": 29,
+        "instagram_idea": "Maxsus chegirma aksiyasi — faqat bugun",
+        "instagram_script": "🎉 AKSIYA! Faqat bugun — tanlangan mahsulotlarda MAXSUS CHEGIRMA! Artel do'konida ulgurchi narxlar asosida yana qo'shimcha chegirma olish imkoniyati! ⏳ Vaqt cheklangan — bugun tugaydi! Do'konimizga keling yoki DM yozing, biz siz uchun eng qulay narxni topamiz 💪 #Aksiya #Chegirma #ArtelOffer",
+        "telegram_idea": "Flash-aksiya — bugungi maxsus chegirma e'loni",
+        "telegram_script": "🚨 DIQQAT! BUGUNGI FLASH-AKSIYA!\n\n⏰ Faqat bugun soat 18:00 gacha:\n\n🔴 Kir yuvish mashinalari — 10% chegirma\n🔴 Muzlatgichlar — 8% chegirma\n🔴 Televizorlar — 12% chegirma\n\n✅ Ulgurchi narx + qo'shimcha chegirma = eng foydali xarid!\n\n📞 Buyurtma: [telefon raqam]\n📍 Filial 1: [manzil]\n📍 Filial 2: [manzil]\n\nDo'stlaringizga ham yuboring! ♻️\n#Aksiya #Chegirma #Artel"
+      },
+      {
+        "day": 30,
+        "instagram_idea": "Foydali maslahat — texnikani to'g'ri tanlash sirlari",
+        "instagram_script": "💡 Maishiy texnika olishdan oldin buni biling! 1️⃣ Energiya tejamkorligi klassini tekshiring. 2️⃣ Kafolat muddatiga e'tibor bering. 3️⃣ Brend reputatsiyasini o'rganing. 4️⃣ Narx-sifat nisbatini solishtiring. Artelda bularning hammasini biz siz uchun qilamiz! Savollar bormi? Kommentda yozing 👇 #FoydaliMaslahat #Artel #TechSavvy",
+        "telegram_idea": "Ekspert maslahati — maishiy texnika tanlash bo'yicha qo'llanma",
+        "telegram_script": "📚 FOYDALI QO'LLANMA: Maishiy texnika qanday tanlanadi?\n\nArtel mutaxassislaridan 5 ta asosiy maslahat:\n\n1️⃣ Energiya sinfi A+ yoki A++ bo'lsin — elektr tejaladi\n2️⃣ Kafolat kamida 1-2 yil bo'lishi shart\n3️⃣ Xona o'lchamiga mos hajmni tanlang\n4️⃣ Ishlab chiqaruvchi reputatsiyini o'rganing\n5️⃣ Qo'shimcha xizmat va ta'mirni so'rang\n\n🏪 Artelda bepul konsultatsiya olishingiz mumkin! Mutaxassislarimiz siz uchun eng to'g'ri tanlovni tavsiya qiladi.\n\n📞 [telefon raqam]\n\n#FoydaliMaslahat #Artel #MaishiyTexnika #Maslahat"
+      }
+    ],
+    "smm_plan_day_index": 0
+  },
+  "customer:6543566787:5000647621": {
+    "name": "Muhammadaziz",
+    "phone": "+998939628858"
+  },
+  "customer:6543566787:7404331384": {
+    "chat_history": [
+      {
+        "role": "customer",
+        "text": "Artel telivozirni arzonlashtirib beringlar"
+      },
+      {
+        "role": "bot",
+        "text": "Salom! Xush kelibsiz! 😊 Artel 32 lik televizorimizga qiziqayotganingizdan xursandmiz!\n\nHozirgi narximiz — 2,300,000 so'm. Bu narxda siz yuqori sifatli, ishonchli Artel brendining televizorini olasiz: yaxshi ekran sifati, energiya tejamkorligi va 1 yillik kafolat bilan!\n\nQancha narxni ko'zda tutgan edingiz? Gaplashib ko'ramiz! 🙂"
+      },
+      {
+        "role": "customer",
+        "text": "Dazmolni arzonroq qilib berasizlarmi"
+      },
+      {
+        "role": "bot",
+        "text": "Albatta, gaplashib ko'ramiz! 😊 Artel dazmolimizning joriy narxi — 450,000 so'm. Bu narxda siz ishonchli Artel brendining dazmolini olasiz: yuqori sifat, qulay dizayn va kafolat bilan! Qancha narxni ko'zda tutgan edingiz? Taklifingizni eshitamiz! 🙂"
+      },
+      {
+        "role": "customer",
+        "text": "300000"
+      },
+      {
+        "role": "bot",
+        "text": "Rahmat taklifingiz uchun! 😊 Lekin 300,000 so'm narxida berishimiz afsuski imkonsiz — bu bizning minimal chegamamizdan ancha past. Artel dazmoli yuqori sifatli, ishonchli mahsulot bo'lib, bu narxda uni taklif qila olmaymiz. Siz uchun eng yaxshi chegirmani qilib, 410,000 so'mga berishim mumkin — bu juda foydali taklif! Qabul qilasizmi? 🙂"
+      },
+      {
+        "role": "customer",
+        "text": "Haa"
+      },
+      {
+        "role": "bot",
+        "text": "Zo'r! 😊 Kelishdik — 410,000 so'mga! Yetkazib berish kerakmi yoki o'zingiz olib ketasizmi? To'lov usuli haqida ham gaplashib olaylik!"
+      },
+      {
+        "role": "customer",
+        "text": "Artel televizor"
+      },
+      {
+        "role": "bot",
+        "text": "Ha, albatta! Artel 32 lik televizorga qaytdingiz — yaxshi tanlov! 😊 Joriy narximiz 2,300,000 so'm. Siz uchun qancha narxni ko'zda tutgansiz? Gaplashib ko'ramiz, imkon qadar qulay qilishga harakat qilamiz! 🙂"
+      },
+      {
+        "role": "customer",
+        "text": "2100000"
+      },
+      {
+        "role": "bot",
+        "text": "Rahmat taklifingiz uchun! 😊 2,100,000 so'm — bu yaxshi taklif, lekin bizning minimal narximiz biroz boshqacha. Shu bois, siz uchun maxsus chegirma qilib, 2,200,000 so'mga berishim mumkin — bu 100,000 so'm tejash demak! Qabul qilasizmi? 🙂"
+      }
+    ],
+    "preferences": [
+      "Narx chegirmasiga qiziqmoqda",
+      "Narx chegirmasiga qiziqmoqda; avval televizor so'ragan, keyin dazmolga o'tgan",
+      "Byudjeti 300,000 so'm atrofida; avval televizor so'ragan, keyin dazmolga o'tgan; chegirmaga qiziqmoqda",
+      "Byudjeti 300,000 so'm atrofida; chegirmaga qiziqadi; avval televizor so'ragan, keyin dazmolga o'tgan",
+      "Avval dazmolni 410,000 so'mga sotib oldi; endi televizorga qaytdi; byudjeti past bo'lishi mumkin",
+      "Televizorga 2,100,000 so'm taklif qildi; byudjeti cheklangan bo'lishi mumkin"
+    ],
+    "name": "Qudratbek",
+    "phone": "+998911272838",
+    "negotiated_prices": {
+      "3": 410000.0
+    }
+  }
+}

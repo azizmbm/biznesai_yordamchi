@@ -1,0 +1,55 @@
+{
+  "5000647621": {
+    "1": {
+      "name": "Kroussan shkoladli, 25",
+      "original_price": 0.0,
+      "current_price": 0.0,
+      "min_price": 23000.0,
+      "photo_file_id": "AgACAgEAAxkBAAMiardpa_EDjLAP-WS_ygFOTRS-xocAAgMOaxvxqblFYso2tZEsjFEBAAMCAAN4AAM9BA"
+    },
+    "2": {
+      "name": "Cheesecake",
+      "original_price": 32000.0,
+      "current_price": 32000.0,
+      "min_price": 29000.0,
+      "photo_file_id": "AgACAgEAAxkBAAMoardpnSnRLl0Sd7PSYyZgERwThtUAAt0MaxsQN7hFta00-eRMB3wBAAMCAAN5AAM9BA"
+    },
+    "3": {
+      "name": "Kofe Americano",
+      "original_price": 30000.0,
+      "current_price": 30000.0,
+      "min_price": 0.0,
+      "photo_file_id": "AgACAgEAAxkBAAMuardpxBrMtS1ZO0-b0caevbSZdnQAAgQOaxvxqblFz9zGjhP1EhQBAAMCAAN5AAM9BA"
+    }
+  },
+  "6543566787": {
+    "1": {
+      "name": "Artel 32 lik Televizor",
+      "original_price": 2300000.0,
+      "current_price": 2300000.0,
+      "min_price": 2000000.0,
+      "photo_path": "C:\\Users\\Dilshoda\\newbiznesai\\telegram_bot\\data\\product_photos\\6543566787_AQADUxtrG1W4uUl-.jpg"
+    },
+    "2": {
+      "name": "Kir yuvish mashinasi 6kg",
+      "original_price": 4000000.0,
+      "current_price": 4000000.0,
+      "min_price": 3800000.0,
+      "photo_path": "C:\\Users\\Dilshoda\\newbiznesai\\telegram_bot\\data\\product_photos\\6543566787_AQADWBtrG1W4uUl-.jpg"
+    },
+    "3": {
+      "name": "Artel Dazmol",
+      "original_price": 450000.0,
+      "current_price": 450000.0,
+      "min_price": 370000.0,
+      "photo_path": "C:\\Users\\Dilshoda\\newbiznesai\\telegram_bot\\data\\product_photos\\6543566787_AQADUxxrG1W4uUl9.jpg"
+    },
+    "4": {
+      "name": "Artel mikroto'lqinli pech",
+      "original_price": 600000.0,
+      "current_price": 600000.0,
+      "min_price": 540000.0,
+      "photo_path": "C:\\Users\\Dilshoda\\newbiznesai\\telegram_bot\\data\\product_photos\\6543566787_AQADohxrG1W4uUl9.jpg"
+    }
+  }
+}
