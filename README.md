@@ -38,8 +38,7 @@ python bot.py
 
 1. **Kredit stavkasi va imtiyozli davr** (`config.py` dagi
    `DEFAULT_ANNUAL_INTEREST_RATE`, `DEFAULT_GRACE_PERIOD_MONTHS`) — taxminiy
-   qiymatlar. Haqiqiy bank shartlariga moslab sozlang yoki foydalanuvchidan
-   so'rab, dinamik qilib bering.
+   qiymatlar. 
 2. **Xarajat/daromad prognozi** Claude API orqali baholanadi — bu haqiqiy
    bozor tadqiqoti (research) o'rnini bosuvchi taxminiy hisob-kitob. Aniqroq
    natija uchun bu funksiyani real narx bazasi/statistika API bilan
@@ -49,7 +48,4 @@ python bot.py
 4. **Sub-botlar** long-polling rejimida, bitta process ichida asyncio
    tasklar sifatida ishlaydi. Bir nechta yuzlab sub-bot bo'lsa, webhook
    asosidagi arxitekturaga o'tish samaraliroq bo'ladi.
-5. Mijoz bilan erkin muloqot (narx so'rash, savol-javob) hozircha oddiy
-   qoidalar asosida ishlaydi (`subbot_manager.py` ichidagi
-   `customer_free_text`) — buni to'liq AI-suhbat generatoriga
-   (`ai_content.py` uslubida) almashtirish mumkin.
+5. Mijoz bilan erkin muloqot (narx so'rash, savol-javob)
